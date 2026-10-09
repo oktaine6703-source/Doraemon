@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Doraemon MOD v1</string>
+    <string name="nav_home">Trang chính</string>
+    <string name="nav_features">Tính năng</string>
+    <string name="nav_settings">Cài đặt</string>
+    <string name="nav_about">Thông tin</string>
+</resources>
